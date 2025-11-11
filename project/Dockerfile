@@ -1,5 +1,5 @@
 FROM centos:7
-
+ 
 # Install necessary packages
 RUN yum install -y openssh-server openssh-clients sudo curl && \
     yum clean all
