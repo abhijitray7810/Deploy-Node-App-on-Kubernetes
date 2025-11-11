@@ -41,7 +41,7 @@ nautilus-node-app/
 ```
 
 ## 🚀 Deployment Instructions
-
+![image](https://github.com/abhijitray7810/Deploy-Node-App-on-Kubernetes/blob/2149ab54789d9f91a06bfbb858e185ccd6011a6c/project/Server.png)
 ### Step 1: Clone or Create Configuration Files
 
 Save the Kubernetes configuration to a file named `node-app.yaml`:
