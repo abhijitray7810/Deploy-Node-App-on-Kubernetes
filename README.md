@@ -9,7 +9,7 @@ This repository contains the configuration and deployment files for the Nautilus
 - [Project Structure](#project-structure)
 - [Deployment Instructions](#deployment-instructions)
 - [Verification](#verification)
-- [Access the Application](#access-the-application)
+- [Access the Application](#access-the-application) 
 - [Troubleshooting](#troubleshooting)
 - [Configuration Details](#configuration-details)
 
