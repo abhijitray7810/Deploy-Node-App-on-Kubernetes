@@ -105,7 +105,7 @@ service/node-app-service created
 ```
 
 ### Step 3: Wait for Pods to be Ready
-
+ 
 ```bash
 kubectl wait --for=condition=ready pod -l app=node-app --timeout=120s
 ```
