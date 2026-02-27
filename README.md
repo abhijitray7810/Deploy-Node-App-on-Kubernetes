@@ -1,7 +1,7 @@
 # Nautilus Node Application - Kubernetes Deployment
 
 This repository contains the configuration and deployment files for the Nautilus Node.js application on Kubernetes cluster.
-
+ 
 ## 📋 Table of Contents
 
 - [Overview](#overview)
